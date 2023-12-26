@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>hexo插件</title>
-    <link href="/p/5a3fb175.html"/>
-    <url>/p/5a3fb175.html</url>
+    <title>Hello World</title>
+    <link href="/p/4a17b156.html"/>
+    <url>/p/4a17b156.html</url>
     
-    <content type="html"><![CDATA[<p>测试</p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
     
@@ -17,13 +17,25 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/p/4a17b156.html"/>
-    <url>/p/4a17b156.html</url>
+    <title>何处才是尽头</title>
+    <link href="/p/5a3fb175.html"/>
+    <url>/p/5a3fb175.html</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://mz-demo-assets.tecmz.com/data/image/2022/06/30/41287_gp1q_8449.png"></p><p>进入黑夜了，亮着的是城市万家灯火，走着的是形形色色的人们，还有那由机动车发出的鸣声，人们匆忙的步伐，那是家的向往。也许那里有着想见的人，也许那里可以放松些身心，也许那是夜里孤独最好的去处。</p><p>  黑夜，多么寒凉又孤独的词。在这浩垠苍茫世上，面对很多事我们都是有心无力，眼泪随之落下，是孤独和愁绪在作祟。其实，曾一度以为自己很强大的我们，却时常与孤独并肩，挣扎，有时在伸手不见五指的黑夜里，唯有抬头仰望微亮的星空，长叹一气，才找到与孤独相向的空间。</p><p>  夜里的风微凉，吹着一眉不展的脸，以为隐藏好的心事溢与表，更显多愁善感。看到乐哈哈的情人，看到开心跳广场舞的阿姨们，心里崩溃了，呐喊着：这他妈苦逼的人生，何时才是个头啊！又或者像哲人般委婉安慰自己：每个人生来都有自己要走完的路，没有尽头的路，随时是生命的终点，又何必在意那么多的得与失呢！又或者念叨着让人心静的禅语：得之我幸，失之我命，命里有时终须有，命里无时莫强求！</p><p>  一个人独处容易会胡思乱想，好的坏的，都一下子在脑子里过幕，舍不得的，心疼了，心疼的，想着想着流泪了，再加一点遗憾的化学剂，整个人只想嚎啕大哭，亦或赐予我神般的力量与光明，我可以把一切妥妥做好，没有后悔，也没有一丝丝遗憾。看，明明是自己脆弱不堪，只不过孤独感在旁煽风点火而已。这世间哪有那么多神，哪有那么多如果，路一旦踏上了，就注定了无法回头！</p><p>  曾几何时，自己散发着别人羡慕不已的光芒，曾几何时，怀揣着希望，光着脚丫奔赴梦想的战场，又曾几何时，自己不会后悔所付出的情和泪。可到最后的一无所有，让你自己心里后怕了，害怕失去，害怕想要的想爱的想要保护的人事一一离你远去。这时的你，像被千万重的孤独感压抑着，无法呼吸，无法求救，等待着的只有恐惧和死亡！</p><p>  混沌元世，我们每个人都是赤裸裸来到这世上，同时与这一切的一切有着千丝万缕，喜怒哀乐也好，悲欢离合也罢，终究要走一遭，后悔也好，遗憾也罢，人生终究有了这几味药才会更浓，更有味道。人走茶凉，是一种孤独感，当你突破了孤独重围，又何尝不是个很好的终结。</p><p>  你是无法真正跟别人分享你的孤独，而别人也无法真正理解你的孤独存在，我们的每个人心理是独立的，看不见，摸不着，更是想不透，每当你面对与孤独独处时，唯一的救世主唯有自己，而诸神也许在等你的业障未了，好坐收渔翁之利，旁人在等你哭笑不得，狼狈的样子而后开怀大笑。请你相信一个真理：靠自己才是最可靠的。你若是倒了，对不起，谁也给不了你“帮一把”。</p><p>  夜里的某一处，也许也有让人如痴如醉的浪漫，长得很清秀诱人，孤独中的你也许很羡慕别人有这一方快乐天堂，可它终究是有毒的内在，侵蚀着人心，拖着躯壳在作秀。也许那浪漫我们都该名为醉生梦死！看似比孤独老去终究好看些，实则狼狈不已。</p><p>  心事了了然，无遮掩，呐喊，嚎哭，怎样开心怎样做，岂不是快人心哉！</p>]]></content>
     
     
+    <categories>
+      
+      <category>旅行</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>旅行</tag>
+      
+    </tags>
     
   </entry>
   

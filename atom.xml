@@ -6,7 +6,7 @@
   <link href="https://www.kaif.top/atom.xml" rel="self"/>
   
   <link href="https://www.kaif.top/"/>
-  <updated>2023-12-25T10:25:39.940Z</updated>
+  <updated>2023-11-28T10:42:20.802Z</updated>
   <id>https://www.kaif.top/</id>
   
   <author>
@@ -15,28 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>hexo插件</title>
-    <link href="https://www.kaif.top/p/5a3fb175.html"/>
-    <id>https://www.kaif.top/p/5a3fb175.html</id>
-    <published>2023-11-28T11:50:40.000Z</published>
-    <updated>2023-12-25T10:25:39.940Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;测试&lt;/p&gt;
-</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -56,6 +34,31 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>何处才是尽头</title>
+    <link href="https://www.kaif.top/p/5a3fb175.html"/>
+    <id>https://www.kaif.top/p/5a3fb175.html</id>
+    <published>2023-11-26T11:50:40.000Z</published>
+    <updated>2023-12-26T10:05:52.603Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="旅行" scheme="https://www.kaif.top/categories/%E6%97%85%E8%A1%8C/"/>
+    
+    
+    <category term="旅行" scheme="https://www.kaif.top/tags/%E6%97%85%E8%A1%8C/"/>
     
   </entry>
   
